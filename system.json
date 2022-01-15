@@ -1,0 +1,25 @@
+{
+  "name": "traveller",
+  "title": "Traveller",
+  "description": "A system for playing the Mongoose version of Traveller in the Foundry Virtual Tabletop environment.",
+  "version": "0.0.1",
+  "author": "GM Matt",
+  "scripts": [],
+  "esmodules": ["traveller.js"],
+  "styles": ["traveller.css"],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": true,
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": null,
+  "secondaryTokenAttribute": null,
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+}
